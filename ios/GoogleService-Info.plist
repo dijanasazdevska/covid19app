@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1025800267256-fqmu12gv5345suofdfdg29vjq59lonkv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1025800267256-fqmu12gv5345suofdfdg29vjq59lonkv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6QS-Ch-W_P8zAj0A6uIs8R3Mf9ozXAdA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1025800267256</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.covid19app</string>
+	<key>PROJECT_ID</key>
+	<string>covid19app-1ed08</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covid19app-1ed08.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1025800267256:ios:9e59f3d30f528cfe37620d</string>
+</dict>
+</plist>
